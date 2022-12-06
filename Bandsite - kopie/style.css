@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Rajdhani:wght@300;400;500;600;700&display=swap');
+
+body {
+    background-color: hsl(304, 89%, 35%);
+    color: rgb(0, 0, 0);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+img {
+    width: 100%;
+}
+
+a {
+    color: rgb(1, 0, 5);
+}
+
+li {
+    display: inline-block;
+}
+
+section {
+    padding: 40px;
+}
+
+#tour {
+    background-color: rgb(206, 66, 155);
+}
+
+#galerij {
+    background-color: rgb(174, 25, 190);
+    color: rgb(0, 5, 12);
+}
+
