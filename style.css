@@ -1,3 +1,24 @@
 body {
-    background-color: rgb(211, 177, 234);
+    background-color: rgb(85, 164, 201);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: rgb(15, 15, 86);
+}
+
+#about {
+    display: flex;
+    background-color: rgb(129, 195, 226);
+    border-radius: 40px;
+}
+
+a {
+    color: rgb(19, 139, 195);
+}
+
+.col {
+    flex: 1;
+    padding: 20px;
+}
+
+.right {
+    border-left: 2px solid rgb(85, 164, 201);
 }
