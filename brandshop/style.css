@@ -11,6 +11,10 @@ body {
 
 }
 
+video {
+    width: 100%;
+}
+
 .flex-container{
     display: flex;
     justify-content: space-between;
@@ -45,3 +49,4 @@ header i{
 header i:hover{
     color: beige;
 }
+
