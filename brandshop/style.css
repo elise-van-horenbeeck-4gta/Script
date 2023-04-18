@@ -49,4 +49,26 @@ header i{
 header i:hover{
     color: beige;
 }
-
+.videoframe{
+    overflow: hidden;
+    margin-bottom: 3rem;
+    max-height: 100vh;
+}
+video{
+    width: 100%;
+}
+.flex-container{
+    display: flex;
+    justify-content: space-between;
+    gap: 2rem;
+    
+}
+.flex-item{
+    flex: 1;
+}
+#featured img{
+    display: block;
+    width: 100%;
+    aspect-ratio: 5 / 6;
+    object-fit: cover;
+}
