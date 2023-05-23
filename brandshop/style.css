@@ -125,3 +125,14 @@ footer ul li:first-child a {
     font-weight: 600;
     text-transform: uppercase;
 }
+
+.bgc-highlights {
+    background-color: #dcd5cf;
+}
+
+.bgd-joinus {
+    background-image: url("gezamelijk.webp");
+    background-size: cover;
+    background-position: right;
+    align-self: stretch;
+}
